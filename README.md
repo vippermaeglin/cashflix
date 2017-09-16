@@ -5,7 +5,7 @@ CashFlix is a cashback program for retail and local market, users earn money rew
 
 ### Platform Modules ###
 
-* CashFlix-Backend:
+* CashFlix-Admin:
 Server backend with resources, REST APIs, and administrative tools.
 * CashFlix-LandingPage:
 Landing page with product details and comercial contacts.
@@ -16,7 +16,7 @@ iOS native mobile app to users.
 
 ### Stacks & Frameworks ###
 
-* CashFlix-Backend:
+* CashFlix-Admin:
 Java-EE, JSF, MongoDB noSQL, RestEasy, JSON, WildFly.
 * CashFlix-LandingPage:
 Java JSF, JavaScript, Html, Bootsface e CSS.
