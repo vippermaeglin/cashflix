@@ -19,7 +19,7 @@ iOS native mobile app to users.
 * CashFlix-Admin:
 Java-EE, JSF, MongoDB noSQL, RestEasy, JSON, WildFly.
 * CashFlix-LandingPage:
-Java JSF, JavaScript, Html, Bootsface e CSS.
+Java JSF, JavaScript, Html, Bootstrap e CSS.
 * CashFlix-Android:
 Google Maps/Location, Firebase, Picaso, REST Retrofit, Facebook SDK, MobiHelp Support.
 * CashFlix-iOS:
