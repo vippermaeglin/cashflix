@@ -1,7 +1,7 @@
-<img src="https://scontent.fplu11-1.fna.fbcdn.net/v/t1.0-9/13394203_1606047449706736_7682811909503955740_n.png?oh=44d4adaaa46c1f924e499bb75c9608b6&oe=5AB87702" alt="Self-Driving Car" width="800px">
+<img src="cashflix.jpg" alt="CashFlix" width="800px">
 
 # CashFlix #
-* [www.cashflix.com.br](https://cashflix.com.br)
+* [www.cashflix.com.br](https://www.facebook.com/CashFlix/)
 
 CashFlix is a cashback program for retail and local market, users earn money rewards in daily shop at groceries, supermarkets, bakeries etc.
 
