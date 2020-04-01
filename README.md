@@ -27,6 +27,11 @@ Google Maps/Location, Firebase, Picaso, REST Retrofit, Facebook SDK, MobiHelp Su
 * CashFlix-iOS:
 Apple MapKit/Location, Firebase, KingFisher, REST, Facebook SDK, MobiHelp Support.
 
+### Infra & DevOps ###
+
+* Backend \ Landing Page provisioned on AWS EC2 with Elastic Bean Stalk hooked to Git
+* Mobile apps manually deployed on app stores
+
 ### Contribution guidelines ###
 
 * This a public demonstration, forks and contributions are in another private repository.
