@@ -34,11 +34,11 @@ Apple MapKit/Location, Firebase, KingFisher, REST, Facebook SDK, MobiHelp Suppor
 
 ### Architecture ###
 
-<img src="cashflix-architecture.png" width="480" alt="Architecture" align="middle"/>
+<img src="cashflix-architecture.png" width="960" alt="Architecture" align="middle"/>
 
 ### Demo ###
 
-<img src="cashflix-video.gif" width="960" alt="Example Video" align="middle"/>
+<img src="cashflix-video.gif" width="480" alt="Example Video" align="middle"/>
 
 ### Contribution guidelines ###
 
