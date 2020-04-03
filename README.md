@@ -32,6 +32,14 @@ Apple MapKit/Location, Firebase, KingFisher, REST, Facebook SDK, MobiHelp Suppor
 * Backend \ Landing Page provisioned on AWS EC2 with Elastic Bean Stalk hooked to Git
 * Mobile apps manually deployed on app stores
 
+### Architecture ###
+
+<img src="cashflix-architecture.png" width="480" alt="Architecture" align="middle"/>
+
+### Demo ###
+
+<img src="cashflix-video.gif" width="960" alt="Example Video" align="middle"/>
+
 ### Contribution guidelines ###
 
 * This a public demonstration, forks and contributions are in another private repository.
